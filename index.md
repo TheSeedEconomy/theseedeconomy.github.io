@@ -9,15 +9,10 @@ Contributing Editor and Author: Shari Lynn Peterson
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
 Permission is granted to copy, distribute and/or modify this document
-
 under the terms of the GNU Free Documentation License, Version 1.3
-
 or any later version published by the Free Software Foundation;
-
 with the Invariant Sections being the original title and authorship.
-
 A copy of the license is included in the section entitled \"GNU
-
 Free Documentation License\".
 
 (Note: The use of gender in writing style is not intended to make any
