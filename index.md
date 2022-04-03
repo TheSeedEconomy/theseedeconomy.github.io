@@ -405,11 +405,9 @@ Act concerning the Rights of American Citizens in foreign States*."
 
 ![](index-images/images//media/image1.png)
 
-![](index-images/images//media/image2.jpg){width="7.477762467191601in"
-height="5.963542213473316in"}
+![](index-images/images//media/image2.jpg)
 
-![](index-images/images//media/image3.jpg){width="7.473958880139983in"
-height="8.224571303587052in"}
+![](index-images/images//media/image3.jpg)
 
 This new model---The Seed Economy---is actually just a temporary
 stepping stone to what potentially is a human utopia. The Utopian
@@ -488,22 +486,18 @@ because the enactment of the principles of the Seed Economy is a step
 towards complete collective human spiritual awakening.
 
 **"You never change things by fighting the existing reality. To change
-something, build a new model that makes the existing model obsolete."**
+something, build a new model that makes the existing model obsolete."** **--- Buckminster Fuller**
 
-**--- Buckminster Fuller**
+**"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
 
-**"Anything in life worth having is worth working for."**
-
-**--- [Andrew Carnegie](https://quotefancy.com/andrew-carnegie-quotes)**
-
-### 
+ 
 
 ### GNU Free Documentation License
 
 Version 1.3, 3 November 2008
 
 Copyright © 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
-\<[[https://fsf.org/]{.underline}](https://fsf.org/)\>
+\<[https://fsf.org/](https://fsf.org/)\>
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
