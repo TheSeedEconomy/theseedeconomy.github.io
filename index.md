@@ -4,7 +4,7 @@ By Steven Adler
 
 Contributing Editor and Author: Shari Lynn Peterson
 
-[[TheSeedEconomy@gmail.com]{.underline}](mailto:TheSeedEconomy@gmail.com)
+[TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
 
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
