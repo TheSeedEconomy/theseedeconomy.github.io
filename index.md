@@ -156,7 +156,7 @@ true human economy has a few characteristics:
 
 2)  The economy is sustainable and will eventually reach a somewhat
     static equilibrium similar to David Latimer's famous bottle garden
-    ([[https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html]{.underline}](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
+    ([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
 
 3)  Due to changes in population, efficiencies, innovations, ecology,
     climate, etc., economic expansions and contractions will occur and
