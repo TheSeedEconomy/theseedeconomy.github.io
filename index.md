@@ -362,7 +362,7 @@ trade tax mostly can be trustless and automated.
 
 The Seed Economy will be a self-governing distributed autonomous
 organization (DAO;
-[[https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work]{.underline}](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)).
+[https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work)).
 Using blockchain technology and smart contracts, new ideas will be
 posted to the DAO and up or down voted. Once an idea gets a high enough
 percentage of votes, it is transformed into a bill for further analysis,
@@ -403,8 +403,7 @@ On July 27, 1868 the day before ratification of the 14th amendment,
 Congress passed "15 U.S. Statutes at Large, Chapter 249 (section 1): *An
 Act concerning the Rights of American Citizens in foreign States*."
 
-![](index-images/images//media/image1.png){width="7.475974409448819in"
-height="5.026042213473316in"}
+![](index-images/images//media/image1.png)
 
 ![](index-images/images//media/image2.jpg){width="7.477762467191601in"
 height="5.963542213473316in"}
