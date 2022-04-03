@@ -180,7 +180,7 @@ various climates and geographic locations including even on ships in
 order to accommodate all seed types and minimize risk due to natural
 degradation, disaster or catastrophe. (Current research shows promise in
 seed value recovery and reclamation due to degradation:
-[[https://www.nature.com/articles/s41598-021-85541-7]{.underline}](https://www.nature.com/articles/s41598-021-85541-7)).
+[https://www.nature.com/articles/s41598-021-85541-7](https://www.nature.com/articles/s41598-021-85541-7)).
 Blockchains and websites need to be created to track not only real time
 market pricing of all seeds but also real time transactions on
 decentralized exchanges (DEXs). These exchanges would allow for direct
