@@ -26,7 +26,7 @@ sort of gender based statement. Please consider the use of the pronoun
 
 *A new economy is proposed using organic and or wildcrafted seeds as the reserve 
 currency, common law, and blockchain technology, making farmers and foragers esteemed 
-members of a new society.  Taxation is simplified using only a trade tax.  
+members of a new society. Taxation is simplified using only a trade tax.  
 Natural law eventually becomes a reality through what is defined as the Utopian Trifecta.*
 
 "**We are the ones who aren't waiting anymore." -- Zan Adu**
@@ -494,9 +494,12 @@ towards complete collective human spiritual awakening.
 something, build a new model that makes the existing model obsolete."** **--- Buckminster Fuller**
 
 **"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
+<br>
 
+[The Seed Economy - MS Word Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.docx)  
+[The Seed Economy - PDF Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.pdf)  
  
-
+<br>
 ### GNU Free Documentation License
 
 Version 1.3, 3 November 2008
