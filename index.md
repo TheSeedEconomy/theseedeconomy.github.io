@@ -398,11 +398,11 @@ On July 27, 1868 the day before ratification of the 14th amendment,
 Congress passed "15 U.S. Statutes at Large, Chapter 249 (section 1): *An
 Act concerning the Rights of American Citizens in foreign States*."
 
-![](docs//media/image1.png)
+![](docs//media/RightOfExpatriation.png)
 
-![](docs//media/image2.jpg)
+![](docs//media/HierarchyOfCitizenshipStatus.jpg)
 
-![](docs//media/image3.jpg)
+![](docs//media/EnglishCommonLawComparison.jpg)
 
 This new model---The Seed Economy---is actually just a temporary
 stepping stone to what potentially is a human utopia. The Utopian
