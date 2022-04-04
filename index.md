@@ -22,6 +22,11 @@ Free Documentation License\".
 sort of gender based statement. Please consider the use of the pronoun
 "he" to mean both "he" and/or "she".)
 
+**Abstract**
+
+*A new economy is proposed using organic  and or wildcrafted seeds as the reserve currency, common law, *
+*and blockchain technology, making farmers and foragers esteemed members of a new society.  Taxation is simplified using only a trade tax.  Natural law eventually becomes a reality through what is defined as the Utopian Trifecta.*
+
 "**We are the ones who aren't waiting anymore." -- Zan Adu**
 
 This document is a call to action for all conscious people to take the
