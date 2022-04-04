@@ -1,3 +1,6 @@
+<meta name="google-site-verification" content="6Bhux0Jvr2d8rDh72tVcRfhVHMmSTqVg9OaqzRsPsIw" />
+<meta name="description" content="A new organic economy based on using seeds as the reserve currency, common law and blockchain technology.">
+<meta name="author" content="Steven Adler and Shari Lynn Peterson">
 **The Seed Economy**
 
 By Steven Adler
