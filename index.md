@@ -1,5 +1,6 @@
 <meta name="google-site-verification" content="6Bhux0Jvr2d8rDh72tVcRfhVHMmSTqVg9OaqzRsPsIw" />
-<meta name="description" content="A new organic economy based on using seeds as the reserve currency, common law and blockchain technology.">
+<meta name="description" content="A new economy is proposed using organic and or wildcrafted seeds as the reserve currency, common law, and blockchain technology, making farmers and foragers esteemed members of a new society. Taxation is simplified using only a trade tax.
+Natural law eventually becomes a reality through what is defined as the Utopian Trifecta.">
 <meta name="author" content="Steven Adler and Shari Lynn Peterson">
 **The Seed Economy**
 
