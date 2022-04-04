@@ -154,23 +154,23 @@ DNA is dangerous business.
 What is critical to point out and understand at this point, is that any
 true human economy has a few characteristics:
 
-1)  The economy grows organically meaning it does not exist for the sake
-    of growth itself. (Our current economy is operating under the
-    illusion that growth is necessary for continued existence, driven by
-    greed and subsequent excessive wealth accumulation.)
+- 1)  The economy grows organically meaning it does not exist for the sake
+    > of growth itself. (Our current economy is operating under the
+    > illusion that growth is necessary for continued existence, driven by
+    > greed and subsequent excessive wealth accumulation.)
 
-2)  The economy is sustainable and will eventually reach a somewhat
-    static equilibrium similar to David Latimer's famous bottle garden
-    ([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
+- 2)  The economy is sustainable and will eventually reach a somewhat
+    > static equilibrium similar to David Latimer's famous bottle garden
+    > ([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
 
-3)  Due to changes in population, efficiencies, innovations, ecology,
-    climate, etc., economic expansions and contractions will occur and
-    none of these natural changes and fluctuations should ever be
-    feared.
+- 3)  Due to changes in population, efficiencies, innovations, ecology,
+    > climate, etc., economic expansions and contractions will occur and
+    > none of these natural changes and fluctuations should ever be
+    > feared.
 
-4)  Knowing that Earth has a somewhat fixed mass and fixed energy flux,
-    a sustainable, quasi-static equilibrium must eventually occur in an
-    organically growing, somewhat closed system.
+- 4)  Knowing that Earth has a somewhat fixed mass and fixed energy flux,
+    > a sustainable, quasi-static equilibrium must eventually occur in an
+    > organically growing, somewhat closed system.
 
 A small percentage of strong and viable seeds have been known to degrade
 or become damaged in some way over time and this is understandable since
@@ -419,13 +419,13 @@ stepping stone to what potentially is a human utopia. The Utopian
 Trifecta is the scenario where three conditions exist in this important
 chronological order:
 
-1)  Complete collective human spiritual awakening.
+- 1)  Complete collective human spiritual awakening.
 
-2)  Robotic artificial intelligence (AI) that is capable of
-    self-improvement, self-production and self-maintenance.
+- 2)  Robotic artificial intelligence (AI) that is capable of
+    > self-improvement, self-production and self-maintenance.
 
-3)  The full understanding and implementation of zero point energy (free
-    energy).
+- 3)  The full understanding and implementation of zero point energy (free
+    > energy).
 
 The most important ordering is that number 1 above occurs first, for
 without that, we are existentially threatened by AI. The ordering of 2
