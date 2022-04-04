@@ -157,19 +157,19 @@ DNA is dangerous business.
 What is critical to point out and understand at this point, is that any
 true human economy has a few characteristics:
 
-- 1)  The economy grows organically meaning it does not exist for the sake
-    > of growth itself. (Our current economy is operating under the
-    > illusion that growth is necessary for continued existence, driven by
-    > greed and subsequent excessive wealth accumulation.)
+- 1)  The economy grows organically meaning it does not exist for the sake 
+of growth itself. (Our current economy is operating under the
+illusion that growth is necessary for continued existence, driven by
+    greed and subsequent excessive wealth accumulation.)
 
-- 2)  The economy is sustainable and will eventually reach a somewhat
-    > static equilibrium similar to David Latimer's famous bottle garden
-    > ([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
+- 2)  The economy is sustainable and will eventually reach a somewhat 
+	static equilibrium similar to David Latimer's famous bottle garden
+	([https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html](https://www.dailymail.co.uk/sciencetech/article-2267504/The-sealed-bottle-garden-thriving-40-years-fresh-air-water.html)).
 
 - 3)  Due to changes in population, efficiencies, innovations, ecology,
-    > climate, etc., economic expansions and contractions will occur and
-    > none of these natural changes and fluctuations should ever be
-    > feared.
+     climate, etc., economic expansions and contractions will occur and
+     none of these natural changes and fluctuations should ever be
+     feared.
 
 - 4)  Knowing that Earth has a somewhat fixed mass and fixed energy flux,
     > a sustainable, quasi-static equilibrium must eventually occur in an
