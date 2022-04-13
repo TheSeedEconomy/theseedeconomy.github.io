@@ -12,7 +12,7 @@ Contributing Editor and Author: Shari Lynn Peterson
 
 [TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
 
-(https://TheSeedEconomy.github.io)
+[https://TheSeedEconomy.github.io](https://TheSeedEconomy.github.io)
 
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
