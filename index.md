@@ -11,6 +11,7 @@ By Steven Adler
 Contributing Editor and Author: Shari Lynn Peterson
 
 [TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
+https://TheSeedEconomy.github.io
 
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
@@ -124,7 +125,8 @@ whole process with is of course the cacao bean, if only symbolically, in
 honor of the Aztecs.
 
 Why do we choose the seed? The genesis of everything natural begins with
-a seed, the sacred storehouse of DNA. Even synthetic creations begin
+a seed, the sacred storehouse of DNA. The genetic diversity found on Earth
+is humanity’s true treasure chest. Even synthetic creations begin
 with a crystallized thought process born of love and life experience
 within a context, resulting in a final idea or "seed" from which
 creation and production ensues.
