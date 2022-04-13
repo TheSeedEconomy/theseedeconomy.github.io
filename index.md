@@ -14,6 +14,8 @@ Contributing Editor and Author: Shari Lynn Peterson
 
 [https://TheSeedEconomy.github.io](https://TheSeedEconomy.github.io)
 
+[https://github.com/TheSeedEconomy](https://github.com/TheSeedEconomy)
+
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
 Permission is granted to copy, distribute and/or modify this document
