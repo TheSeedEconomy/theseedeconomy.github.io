@@ -16,6 +16,12 @@ Contributing Editor and Author: Shari Lynn Peterson
 
 [https://github.com/TheSeedEconomy](https://github.com/TheSeedEconomy)
 
+THE LATEST VERSION OF THIS DOCUMENT MAY BE DOWNLOADED IN EITHER DOCX OR PDF 
+FORMAT VIA THE FOLLOWING TWO LINKS:
+
+[The Seed Economy - MS Word Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.docx)  
+[The Seed Economy - PDF Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.pdf) 
+
 Copyright (C) 2008-22 Steven Adler, Shari Lynn Peterson.
 
 Permission is granted to copy, distribute and/or modify this document
@@ -502,10 +508,6 @@ something, build a new model that makes the existing model obsolete."** **--- Bu
 **"Anything in life worth having is worth working for."** **--- Andrew Carnegie**
 <br>
 <br>
-
-[The Seed Economy - MS Word Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.docx)  
-[The Seed Economy - PDF Format](https://theseedeconomy.github.io/docs/The-Seed-Economy.pdf)  
- 
 <br>
 ### GNU Free Documentation License
 
