@@ -253,10 +253,12 @@ above average consciousness would realize that sharing his "proprietary"
 improvement/discovery/invention/secret with other farmers would benefit
 the society as a whole the most, and indirectly and collectively
 catapult himself and his progeny much further down the evolutionary road
-than would not sharing the improved technology. The only thing that is
-catastrophic to this proposed new model is greedy, power hungry,
-egocentric control freaks buying up huge amounts of farmland for their
-own profit and control agendas.
+than would not sharing the improved technology. The primary concern regarding 
+the food supply and what is catastrophic to humanity regardless of remaining 
+with the current economic system or adopting a new seed economy is a resultant 
+concentration of fertile farmland in the hands of greedy, power-hungry and 
+egocentric control freak “philanthropolists” (philanthropic monopolists) for 
+their own, and other globalists, profit and control agendas.
 
 The spiritual foundation of this "new economy" is the practice of
 moderation in everything, especially material things. When a group of
