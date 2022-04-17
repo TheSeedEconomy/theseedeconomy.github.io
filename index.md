@@ -131,8 +131,8 @@ group, whether or not animals are used as food and/or useful products. A
 great example is the famous Aztec Nation of Central America seeing the
 cacao bean (which is botanically the seed of a fruit) as a primary value to 
 themselves and thus making it their currency. Jumping forward to the final
-analysis, money does indeed grow on trees! The best seed to begin this
-whole process with is of course the cacao bean, if only symbolically, in
+analysis, money does indeed grow on trees! The best seed with which to begin 
+this whole process is of course the cacao bean, if only symbolically, in
 honor of the Aztecs.
 
 Why do we choose the seed? The genesis of everything natural begins with
