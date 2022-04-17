@@ -167,7 +167,7 @@ and wholly motivated by profit; the DNA molecule is designed to conduct
 the function of Love, and allowing anything but pure Love to tamper with
 DNA is dangerous business.
 
-What is critical to point out and understand at this point, is that any
+What is critical to point out and understand at this point is that any
 true human economy has a few characteristics:
 
 - 1)  The economy grows organically meaning it does not exist for the sake 
@@ -256,8 +256,8 @@ improvement/discovery/invention/secret with other farmers would benefit
 the society as a whole the most, and indirectly and collectively
 catapult himself and his progeny much further down the evolutionary road
 than would not sharing the improved technology. The primary concern regarding 
-the food supply and what is catastrophic to humanity regardless of remaining 
-with the current economic system or adopting a new seed economy is a resultant 
+the food supply and what is catastrophic to humanity, regardless of remaining 
+with the current economic system or adopting a new seed economy, is a resultant 
 concentration of fertile farmland in the hands of greedy, power-hungry and 
 egocentric control freak “philanthropolists” (philanthropic monopolists) for 
 their own, and other globalists, profit and control agendas.
