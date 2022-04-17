@@ -10,6 +10,8 @@ By Steven Adler
 
 Contributing Editor and Author: Shari Lynn Peterson
 
+Version 1.14
+
 [TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
 
 [https://TheSeedEconomy.github.io](https://TheSeedEconomy.github.io)
