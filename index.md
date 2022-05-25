@@ -10,7 +10,7 @@ By Steven Adler
 
 Contributing Editor and Author: Shari Lynn Peterson
 
-Version 1.14
+Version 1.15
 
 [TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
 
