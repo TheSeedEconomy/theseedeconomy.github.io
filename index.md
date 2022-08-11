@@ -10,7 +10,7 @@ By Steven Adler
 
 Contributing Editor and Author: Shari Lynn Peterson
 
-Version 1.15
+Version 1.16
 
 [TheSeedEconomy@gmail.com](mailto:TheSeedEconomy@gmail.com)
 
@@ -126,14 +126,15 @@ edible seed to be the basis of this value. If the seed is BOTH
 sproutable and edible it would carry a slightly higher value than a seed
 which is just edible or just sproutable. The long term functionality and
 sustainability of humanity on Earth is based on either collecting wild
-berries/fruits, nuts, and seeds as a group, or farming the same as a
-group, whether or not animals are used as food and/or useful products. A
-great example is the famous Aztec Nation of Central America seeing the
-cacao bean (which is botanically the seed of a fruit) as a primary value to 
-themselves and thus making it their currency. Jumping forward to the final
-analysis, money does indeed grow on trees! The best seed with which to begin 
-this whole process is of course the cacao bean, if only symbolically, in
-honor of the Aztecs.
+berries/fruits, nuts and seeds as a group, or farming the same as a
+group, whether or not animals are used as food and/or useful products. 
+The Mayan and Aztec civilizations seeing the cacao bean 
+(which is botanically the seed of a fruit) as a primary value to themselves 
+made it their currency.  The cacao bean continued as a standard currency in 
+Mexico until 1887.  Jumping forward to the final analysis, money does 
+indeed grow on trees!  The best seed with which to begin this whole process 
+is of course the cacao bean, if only symbolically, in honor of the ancient 
+Mesoamericans.
 
 Why do we choose the seed? The genesis of everything natural begins with
 a seed, the sacred storehouse of DNA. The genetic diversity found on Earth
