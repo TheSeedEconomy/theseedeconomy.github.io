@@ -6,7 +6,7 @@ Natural law eventually becomes a reality through what is defined as the Utopian 
 <meta name="author" content="Steven Adler and Shari Lynn Peterson">
 **The Seed Economy**
 
-By Steven Adler
+By Steven David Adler
 
 Contributing Editor and Author: Shari Lynn Peterson
 
